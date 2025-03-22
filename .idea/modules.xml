@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/stepik.iml" filepath="$PROJECT_DIR$/.idea/stepik.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../workbot/.idea/workbot.iml" filepath="$PROJECT_DIR$/../workbot/.idea/workbot.iml" />
     </modules>
   </component>
 </project>
